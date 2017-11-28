@@ -1,6 +1,6 @@
 
 
-package com.cn.inspur.startScala
+package com.cn.inspur.bigdata
 
 class Stack[A] {
     private var elements:List[A] = Nil

@@ -1,4 +1,4 @@
-package com.cn.inspur.startScala
+package com.cn.inspur.bigdata
 
 import scala.collection.mutable.ArrayBuffer
 

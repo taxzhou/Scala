@@ -1,4 +1,4 @@
-package com.cn.inspur.startScala
+package com.cn.inspur.bigdata
 
 class Methods {
   def add(x: Int, y: Int): Int = x + y

@@ -1,4 +1,4 @@
-package com.cn.inspur.startScala
+package com.cn.inspur.bigdata
 
 object mix {
   abstract class A {

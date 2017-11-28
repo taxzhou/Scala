@@ -1,4 +1,4 @@
-package com.cn.inspur.startScala
+package com.cn.inspur.bigdata
 
 class TypeCasting {
   val x : Long =1234565789
